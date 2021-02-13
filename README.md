@@ -1,4 +1,4 @@
-# PRTPRT - Parallel Routing Table
+# PRT - Parallel Routing Table
 
 entered into "The Great Cross-Architecture Challenge" on CodeProject 
 
