@@ -56,7 +56,7 @@ implications of "close matches" in DNA sequencing
 
 
 my continuing efforts to develope this concept 
-are further expressed in my "PRV" Parallel Routiung Vector conceptualizations:
+are further expressed in my "PRV" Parallel Routing Vector conceptualizations:
 https://github.com/SynthNetics/PRV
 
 
